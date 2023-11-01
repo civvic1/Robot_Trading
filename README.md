@@ -1,7 +1,7 @@
 # Robot_Trading
 Web Scrapping del bitcoin en tiempo real
 
-Configuracion del ambiente: Entorno de google collab asignando 5 variables globales
+Configuracion del ambiente: Entorno asignando 5 variables globales
 Obtencion de datos a través de yahoo finance y creación de una función para averiguar la tendencia
 limpiamos los datos para averiguar los outliers, datos repetidos, con valor 0 o nulos
 Toma de deciones: En donde en función de la tendencia recomendamos comprar o vender
