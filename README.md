@@ -44,6 +44,8 @@
 
 Agradecimientos especiales:
 
+- **Evelyn Correia Aguilera:** Miembro del equipo.
+- **Esteban Escobar:** Especialista en Recursos Humanos.
 - **Alejandro Gamarra:** Instructor del Bootcamp.
 - **Silvia Branco:** Especialista en Recursos Humanos.
 
