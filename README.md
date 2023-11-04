@@ -42,11 +42,16 @@
 - Demostración de un proyecto real que resalta cómo los datos pueden utilizarse para tomar decisiones informadas.
 - Importancia de tratar los datos adecuadamente para evitar decisiones erróneas.
 
+Agradecimientos al equipo:
+
+- **Evelyn Correia Aguilera:** Gran comunicadora y excelente analista.
+- **Esteban Escobar:** Gran matemático y excelente analista.
+- ----------------------------------------------
+
 Agradecimientos especiales:
 
-- **Evelyn Correia Aguilera:** Miembro del equipo.
-- **Esteban Escobar:** Especialista en Recursos Humanos.
 - **Alejandro Gamarra:** Instructor del Bootcamp.
 - **Silvia Branco:** Especialista en Recursos Humanos.
+- **Karin Rodriguez:** Data & Analytics.
 
 Su valioso apoyo enriqueció tanto nuestros conocimientos técnicos como nuestras habilidades interpersonales, fundamentales en el campo de la Ciencia de Datos.
