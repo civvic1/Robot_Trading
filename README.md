@@ -46,7 +46,8 @@ Agradecimientos al equipo:
 
 - **Evelyn Correia Aguilera:** Gran comunicadora y excelente analista.
 - **Esteban Escobar:** Gran matemático y excelente analista.
-- ----------------------------------------------
+
+---
 
 Agradecimientos especiales:
 
